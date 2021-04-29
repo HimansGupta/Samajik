@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Samajik</string>
+    <string name="LogOut">Log Out</string>
+    <string name="No">No</string>
+    <string name="Yes">Yes</string>
+    <string name="DoYouWantToExit">DoYouWantToExit</string>
+    <string name="Exit">Exit</string>
+
+
+</resources>

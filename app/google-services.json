@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346451556961",
+    "project_id": "social-app-572d7",
+    "storage_bucket": "social-app-572d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346451556961:android:6b57bbc4e6043504dfc820",
+        "android_client_info": {
+          "package_name": "com.himanshu.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346451556961-0rd0gplkvcqb4c328ouqdj2hd5gcdkta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATTch5p7NndEP6vr9gtUkE5Pc4o0JQrt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346451556961-0rd0gplkvcqb4c328ouqdj2hd5gcdkta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
